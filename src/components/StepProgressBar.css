@@ -1,0 +1,28 @@
+.step-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.step {
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	text-align: center;
+}
+.step-text {
+	font-family: "Montserrat", sans-serif;
+	font-weight: 600;
+	font-size: 1.4rem;
+	margin: 0px;
+	line-height: 50px;
+}
+.step-title {
+	font-family: "Montserrat", sans-serif;
+	font-weight: 600;
+	font-size: 1.4rem;
+	margin: 0px;
+	color: #104b6d;
+	text-align: center;
+	white-space: nowrap;
+}
